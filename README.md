@@ -8,7 +8,7 @@ A customizable and reusable `Button` component built with **React**, **TypeScrip
 ```bash
 # 1. Clone the repository
 git clone https://github.com/rdhss/button-component-test-DII.git
-cd react-ui-button
+cd button-component-test-DII
 
 # 2. Install dependencies
 npm install
